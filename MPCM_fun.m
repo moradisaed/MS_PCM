@@ -5,11 +5,6 @@ function  out  = MPCM_fun( img )
 %% inputs:
 % img: the input image
 
-% sigma:  standard deviation of gaussian kernel
-
-
-% n: number of scales
-
 %% output
 % out: output filtered image
 %%
